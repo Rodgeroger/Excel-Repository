@@ -30,7 +30,7 @@ Each club in Liga MX and Liga de Expansión MX is detailed with the following at
 - **Location (City)** – The city where the club is based.
 - **Stadium** – The name of the club's home stadium.
 - **Capacity** – The seating capacity of the stadium.
-- **Value (in Euros)** – The estimated market value of the club.
+- **Value (in Euros)** – The estimated market value of the club. Value for the Liga Expansion teams are changed to fit context of the simutlation
 - **Titles** – The number of championships won by the club.
 
 This analysis provides insight into how Liga MX could have evolved if promotion and relegation had never been abolished.
