@@ -9,7 +9,7 @@ After Liga de Expansión MX replaced Ascenso MX, promotion and relegation were s
 ### Promotion and Relegation System:
 - **Promotion:**
   - The **Clausura** and **Apertura** champions of Liga de Expansión MX are promoted directly.
-  - The **Runner up teams** in Liga de Expansión MX have a match.
+  - The **Runner up teams** in both the Liga de Expansión MX clausura and apertura finals play a match.
   - The winner of this match competes against the **third-lowest team in the Liga MX coefficient table** for the final promotion spot.
 
 - **Relegation:**
