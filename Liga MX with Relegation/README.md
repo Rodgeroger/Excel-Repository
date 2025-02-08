@@ -14,8 +14,8 @@ After Liga de Expansión MX replaced Ascenso MX, promotion and relegation were s
 
 - **Relegation:**
   - The **bottom three teams in the Liga MX coefficient table** are at risk of relegation instead of mearly being monetarily penalized.
-      - The **two lowest-ranked teams** are directly relegated.
-      - The **third-lowest team** faces the playoff winner from Liga de Expansión MX for survival.
+  - The **two lowest-ranked teams** are directly relegated.
+  - The **third-lowest team** faces the playoff winner from Liga de Expansión MX for survival.
 
 This approach ensures that teams perform competitively and rewards strong performances in the second division while maintaining a pathway for promotion.
 
